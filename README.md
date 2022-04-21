@@ -1,16 +1,20 @@
-### Hi there 👋
+### Hello World 👋, I'm Muh.Toyyib ( Frontend Developer | Technical Writer | AWS Community Builder | 
 
-<!--
-**Muhtoyyib/Muhtoyyib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### I'm a self-taught developer and I have passion for writing. I write about things I learnt and have experience with and it gives me joy. 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on levelling up my skills, I will take the AWS Cloud Practitioner exam soon. 
+- 🌱 I’m currently learning JavaScript and Cloud Computing. 
+- 👯 I’m looking to collaborate on Frontend projects(HTML, CSS and JavaScript) and any Technical Writing Projects
+- 🤔 I’m looking for help with how to make money while I learn.
+- 💬 Ask me about anything beneficial.
+- 📫 How to reach me: [Twitter](https://twitter.com/devtoheeb/), [Linkedln](https://www.linkedin.com/in/akande-olalekan-toheeb-2a69a0221/), [Mail](mailto:akandeolalekantoheeb94@gmail.com).
+- 😄 Pronouns: ... He/his
+- ⚡ Fun fact: ... I speak Arabic
+
+
+
+
+
+
