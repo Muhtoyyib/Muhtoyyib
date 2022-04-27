@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 
 
+🛠  Technologies and tools
 
+JavaScript logo  HTML5 logo   CSS3 logo  git logo   Visual Studio Code logo
