@@ -21,18 +21,19 @@ My name is Akande Olalekan Toheeb and I'm a front-end engineer, a technical writ
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Red_Hat_OpenShift-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Markdown-informational?style=flat&logo=red-hat-open-shift&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=digitalocean&logoColor=white&color=2bbc8a)
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from coding, I also maintain a blog - you can find my articles on my website on [Educative](https://www.educative.io/profile/view/6268415584501760) as well as on [Medium](https://medium.com/@akandeolalekantoheeb9), [Hashnode](https://muhtoyyib.hashnode.dev/), and [DEV.to](https://dev.to/muhtoyyib).
 
-A sample of my recent articles:
+A sample of my articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Crashes and Deadlocks in Python using PyStack](https://martinheinz.dev/blog/101)
-- [Goodbye etcd, Hello PostgreSQL: Running Kubernetes with an SQL Database](https://martinheinz.dev/blog/100)
-- [Remote Interactive Debugging of Python Applications Running in Kubernetes](https://martinheinz.dev/blog/99)
-- [The Right Way to Run Shell Commands From Python](https://martinheinz.dev/blog/98)
+- [Spread vs Rest Operator in JavaScript](https://muhtoyyib.hashnode.dev/spread-vs-rest-operator-in-javascript)
+- [Why AI-Powered Receipt Scanning OCR is Essential for Fintech Companies](https://medium.com/ai-in-plain-english/why-ai-powered-receipt-scanning-ocr-is-essential-for-fintech-companies-9c73066a8e66)
+- [Understanding Constructors in JavaScript](https://www.makeuseof.com/javascript-constructors-understanding/)
+- [AddEventListener JavaScript: What It Is and How To Use It](https://coderpad.io/blog/development/addeventlistener-javascript/)
+- [LinkedIn Email Finder API](https://muhtoyyib.hashnode.dev/linkedin-email-finder-api)
 <!-- BLOG-POST-LIST:END -->
