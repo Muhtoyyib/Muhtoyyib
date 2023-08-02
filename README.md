@@ -4,7 +4,7 @@
 
 # Hello, folks! 
 
-My name is Akande Olalekan Toheeb and I'm a front-end engineer, a technical writer, and a certified AWS cloud practitioner. I'm from Nigeria, living in Ilorin, and currently unemployed. You can find me on [![![Twitter](https://img.shields.io/twitter/url/https/twitter.com/devtoheeb?style=social)](https://twitter.com/devtoheeb)
+My name is Akande Olalekan Toheeb and I'm a front-end engineer, a technical writer, and a certified AWS cloud practitioner. I'm from Nigeria, living in Ilorin, and currently unemployed. You can find me on [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/devtoheeb?style=social)](https://twitter.com/devtoheeb)
 ,  or on [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/akande-olalekan-toheeb-2a69a0221/).
 
 ## 🔧 Technologies & Tools
