@@ -32,7 +32,8 @@ A sample of my articles:
 
 <!-- BLOG-POST-LIST:START -->
 - [Spread vs Rest Operator in JavaScript](https://muhtoyyib.hashnode.dev/spread-vs-rest-operator-in-javascript)
-- [Why AI-Powered Receipt Scanning OCR is Essential for Fintech Companies](https://medium.com/ai-in-plain-english/why-ai-powered-receipt-scanning-ocr-is-essential-for-fintech-companies-9c73066a8e66)
+- [Why AI-Powered Receipt Scanning OCR is Essential for Fintech Companies](https://medium.com/ai-in-plain-english/why-ai-powered-receipt-scanning-ocr-is-essential-for-fintech-companies-9c73066a8e66).
+- [Adding images to README.md in GitHub](https://www.educative.io/answers/adding-images-to-readmemd-in-github)
 - [Understanding Constructors in JavaScript](https://www.makeuseof.com/javascript-constructors-understanding/)
 - [AddEventListener JavaScript: What It Is and How To Use It](https://coderpad.io/blog/development/addeventlistener-javascript/)
 - [LinkedIn Email Finder API](https://muhtoyyib.hashnode.dev/linkedin-email-finder-api)
