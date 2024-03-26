@@ -4,13 +4,14 @@
 
 # Hello, folks! 
 
-My name is Akande Olalekan Toheeb and I'm a front-end engineer, a technical writer, and a certified AWS cloud practitioner. I'm from Nigeria, living in Ilorin, and currently unemployed. You can find me on [![](https://img.shields.io/twitter/url/https/twitter.com/devtoheeb?style=social)](https://twitter.com/devtoheeb)
+My name is Akande Olalekan Toheeb, and I'm a front-end engineer, a technical writer, and a cloud developer ( soon to be). I'm from Nigeria, living in Ilorin. You can find me on [![](https://img.shields.io/twitter/url/https/twitter.com/devtoheeb?style=social)](https://twitter.com/devtoheeb)
 ,  or on [![](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=social)](https://www.linkedin.com/in/akande-olalekan-toheeb-2a69a0221/).
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Ios-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 [![VSCode IDE](https://img.shields.io/badge/Editor-VSCode_IDE-blue?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)](https://code.visualstudio.com/)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Jquery-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Html-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
@@ -31,7 +32,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [Spread vs Rest Operator in JavaScript](https://muhtoyyib.hashnode.dev/spread-vs-rest-operator-in-javascript)
+- [How to Start a Career in Cloud Computing in 2024]([https://muhtoyyib.hashnode.dev/spread-vs-rest-operator-in-javascript](https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/))
 - [Why AI-Powered Receipt Scanning OCR is Essential for Fintech Companies](https://medium.com/ai-in-plain-english/why-ai-powered-receipt-scanning-ocr-is-essential-for-fintech-companies-9c73066a8e66).
 - [Adding images to README.md in GitHub](https://www.educative.io/answers/adding-images-to-readmemd-in-github)
 - [Understanding Constructors in JavaScript](https://www.makeuseof.com/javascript-constructors-understanding/)
