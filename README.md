@@ -32,7 +32,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 A sample of my articles:
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Start a Career in Cloud Computing in 2024]([https://muhtoyyib.hashnode.dev/spread-vs-rest-operator-in-javascript](https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/))
+- [How to Start a Career in Cloud Computing in 2024](https://www.freecodecamp.org/news/how-to-start-a-cloud-computing-career/)
 - [Why AI-Powered Receipt Scanning OCR is Essential for Fintech Companies](https://medium.com/ai-in-plain-english/why-ai-powered-receipt-scanning-ocr-is-essential-for-fintech-companies-9c73066a8e66).
 - [Adding images to README.md in GitHub](https://www.educative.io/answers/adding-images-to-readmemd-in-github)
 - [Understanding Constructors in JavaScript](https://www.makeuseof.com/javascript-constructors-understanding/)
